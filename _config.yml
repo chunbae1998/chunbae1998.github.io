@@ -15,12 +15,18 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: ChunBae's Blog
+  tagline: DevOps, Kubernetes, Cloud, Linux, DB
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
   showPicker: true
+  disqus_shortname: games
+  navigation:
+    - title: DevOps
+      url: "/devops"
+    - title: Kubernetes
+      url: "/kubernetes"
 
   # generate social links in footer
   social_links:
