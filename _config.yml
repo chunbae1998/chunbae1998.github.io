@@ -20,7 +20,6 @@ url: "https://chunbae1998.github.io" # the base hostname & protocol for your sit
 #url: "http://localhost:4000" 
 repository: just-the-docs/just-the-docs # for github-metadata
 
-theme: just-the-docs
 permalink: pretty
 
 exclude:
